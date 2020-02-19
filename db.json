@@ -6,7 +6,16 @@
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+    { "id": 2, "body": "some comment", "postId": 1 },
+    { "id": 3, "body": "thank you!", "postId": 2 },
+    { "id": 4, "body": "mmm not bad", "postId": 1 },
+    { "id": 5, "body": "some comment", "postId": 1 },
+    { "id": 6, "body": "bla bla bla", "postId": 1 },
+    { "id": 7, "body": "some comment", "postId": 3 },
+    { "id": 8, "body": "some comment", "postId": 1 },
+    { "id": 9, "body": "wow!", "postId": 3 },
+    { "id": 10, "body": "not interesting", "postId": 3 },
+    { "id": 11, "body": "some comment", "postId": 1 }
   ],
   "profile": {
     "name": "typicode"
