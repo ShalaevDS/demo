@@ -1,8 +1,8 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    { "id": 1, "title": "Post 1", "text": "sdf sdf dsf sdf 34reh dhn ghds hs" },
+    { "id": 2, "title": "Post 2", "text": "sdfdsf g gadhdaf hdgh " },
+    { "id": 3, "title": "Post 3", "text": "lkjslg hdfgh dkjghdkfg" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
@@ -21,7 +21,7 @@
     "name": "typicode"
   },
   "urls": {
-    "posts": "/profile",
+    "posts": "/posts",
     "comments": "/comments",
     "profile": "/profile"
   }
